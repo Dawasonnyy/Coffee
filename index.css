@@ -100,7 +100,7 @@ nav {
 body {
     width: 100%;
     margin: auto;
-    background-color: rgb(255, 255, 255);
+    background-color:black;
    
 }
 .home-page-contents {
@@ -207,7 +207,7 @@ body {
     height:  300px;
     width: 100%;
     position: absolute;
-    top: 1080px;
+    top: 1100px;
     transform: rotate(180deg);
     background: url(wave.svg);
     background-repeat: no-repeat;
