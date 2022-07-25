@@ -207,7 +207,7 @@ body {
     height:  300px;
     width: 100%;
     position: absolute;
-    top: 1050px;
+    top: 1080px;
     transform: rotate(180deg);
     background: url(wave.svg);
     background-repeat: no-repeat;
