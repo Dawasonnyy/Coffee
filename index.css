@@ -523,6 +523,9 @@ footer {
     
 
     /*body*/
+      
+      body {
+          background-color:black;
     .home-page-contents{
         position: relative;
         top: 55px;
